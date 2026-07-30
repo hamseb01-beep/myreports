@@ -1,0 +1,6 @@
+{
+  "name": "Beergeel Clinic",
+  "description": "Comprehensive OBGYN ultrasound reporting, twin pregnancy BPP calculator, and laboratory result management system for Beergeel Clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
